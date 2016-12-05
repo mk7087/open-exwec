@@ -1,0 +1,18 @@
+body,
+head{
+  margin: 0;
+}
+#header{
+  
+}
+#header+nav>#header-navi{
+  list-style: none;
+  padding: 0;
+}
+#header+nav>#header-navi>li{
+  display:inline;
+  display:inline-block;
+}
+#header+nav>#header-navi>li.header-navi-right{
+  float:right;
+}
