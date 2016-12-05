@@ -2,7 +2,7 @@ chat
 conference  
 file sharing  
 chat roomÅEconference room  
-#Plugins
+#Addons,Plugins
   GitHub
   Google
 #local application
